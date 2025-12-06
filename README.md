@@ -1,5 +1,4 @@
-<html lang="en">
-  <head>
+ <head>
     <link rel="stylesheet" href="landingPage.css" />
     <script type = "text/javascript" src="themeSwitcher.js" defer></script>
     <title>QuickServed</title>
@@ -41,4 +40,3 @@
         </main>
 
   </body>
-</html>
